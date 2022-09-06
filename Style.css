@@ -1,0 +1,104 @@
+body {
+    
+    background-image: url('QirCVn1.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+h1 {
+    color:tomato;
+    text-align: center;
+    font-size: 100px;
+    border: 2px red;
+}
+p {
+    color:white;
+    border-style:solid;
+    font-size: x-large;
+
+}
+p1 {
+    color:white;
+    font-size: larger;
+}
+p2 {
+    color: white;
+    font-size: larger;
+}
+
+
+h2 {
+    background-color: white;
+
+}
+a:hover {
+    color:white
+}
+p3 {
+    color:white;
+    font-size: larger;
+}
+p4 {
+    color:white;
+}
+p5 {
+    color:white;
+    font-size: larger;
+}
+table {
+    border-spacing: 20px;
+    border-collapse: collapse;
+    color: white;
+    border: 5px dashed cyan ; 
+    width: 70%;  
+    
+}
+caption {
+    color: white; 
+    font-size: xx-large;
+}
+    th td {
+        padding : 15px;
+    }
+
+ tr :nth-child(even) {
+    background-color:rgba(150, 212, 212, 0.4)
+ }
+ tr :nth-child(odd) {
+    background-color:rgba(150, 50, 50, 0.4)
+ }
+ p6 {
+    color: aliceblue;
+    font-size: xx-large;
+}
+h3 {
+    color:white;
+}
+ul li {
+    color: white;
+    list-style-type:circle;
+}
+dl {
+    color: white;
+}
+dd {
+    border: 2px white;
+    
+}
+h {
+    color: white;
+    font-size: xx-large;
+}
+p7 {
+    color: white;
+    font-size: x-large;
+    border: 2px white;
+}
+h4 {
+    color: aqua;
+    font-size: 150%;
+}
+form {
+    color: lightskyblue;
+    font-size: x-large;
+}

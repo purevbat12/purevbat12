@@ -1,0 +1,22 @@
+<!doctype html!>
+<HTML land="en-UK"> 
+<head>
+    <link rel="stylesheet" href="1#.css">
+    <meta charset="UTF-8">
+</head>
+<body>
+    
+    <tagname > Purvee's first web page  </tagname> 
+    <!--<a href=""></a>-->
+    <img title="This is from one of my favourite games named Portal" src="4139859.jpg" alt="Aperture Science " width="300" height="200"><h1 style="font-family:fantasy;text-align:center">Hi</h1>
+    <p><cite> "Aperture Science"</cite> from portal game</p>
+    <p1><strong> My name is purevbat1 </strong></p1>
+    <hr>
+    <p2> And i am 14 years old </p2>
+</body>
+</HTML>
+<button type="button" onclick='document.getElementById("demo").innerHTML = "So i tested the javascript on this button thingy and i am suprised that it worked it was really confusing to at first and second attemptsbut i finally figurd it out. Jesus this javascript is so confusing to me. I hope i can learn it. So get back to writing. "'>Click me!</button>
+background-image: url('QirCVn1.jpeg');
+background-color: black;
+
+can learn it. So get back to writing. Oh by the way tou need to refresh the site to get back to the original text to appear. I didnt quite understand how to reverse the button s function!  "'>Click me!</button><button type="button" onclick='document.getElementById("demo").innerHTML = "So i tested the javascript on this button thingy and i am suprised that it worked it was really confusing to at first and second attempts but i finally figurd it out &#128513;. Jesus this javascript is so confusing to me. I hope i can learn it.&#128516;
